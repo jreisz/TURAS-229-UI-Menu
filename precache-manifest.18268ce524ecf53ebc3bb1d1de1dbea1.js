@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e2d9f1999e5b55c248642d9667e1d39",
+    "revision": "437113b096b03aa059d14d108f230f81",
     "url": "/TURAS-229-UI-Menu/index.html"
   },
   {
-    "revision": "59ca703a957e2922c6c5",
-    "url": "/TURAS-229-UI-Menu/static/css/main.d0dd163b.chunk.css"
+    "revision": "2c7ffaf7c42e2055911b",
+    "url": "/TURAS-229-UI-Menu/static/css/main.f6079ff8.chunk.css"
   },
   {
     "revision": "79148b17851906e7dd85",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TURAS-229-UI-Menu/static/js/2.d7d74003.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59ca703a957e2922c6c5",
+    "revision": "2c7ffaf7c42e2055911b",
     "url": "/TURAS-229-UI-Menu/static/js/main.d2900ef3.chunk.js"
   },
   {
@@ -38,6 +38,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c73899dff65a846e3d8423b04cb041ec",
     "url": "/TURAS-229-UI-Menu/static/media/Inter-Bold-slnt=0.c73899df.ttf"
+  },
+  {
+    "revision": "c88d8bbbf91fb59ecb13ac80d7bd56eb",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-ExtraBold-slnt=0.c88d8bbb.ttf"
+  },
+  {
+    "revision": "b77a98479d88ab0df8f14a94a542a033",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-ExtraLight-slnt=0.b77a9847.ttf"
+  },
+  {
+    "revision": "5a8cd28ecea40464653def6869c41cbc",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-Light-slnt=0.5a8cd28e.ttf"
+  },
+  {
+    "revision": "ddc03dcdbfb32329aa419994ff329189",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-Medium-slnt=0.ddc03dcd.ttf"
+  },
+  {
+    "revision": "56786aa1952d68dada47626302897eae",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-Regular-slnt=0.56786aa1.ttf"
+  },
+  {
+    "revision": "65cbb7515961a8f823110c2a612fd0d9",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-SemiBold-slnt=0.65cbb751.ttf"
+  },
+  {
+    "revision": "8f6b453eb030549471bd0d95f3b60542",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-Thin-slnt=0.8f6b453e.ttf"
+  },
+  {
+    "revision": "0930073eae9c4dbebce3d43dc419f7b5",
+    "url": "/TURAS-229-UI-Menu/static/media/Inter-VariableFont_slnt,wght.0930073e.ttf"
   },
   {
     "revision": "1af0b153d5633ca641badc9e7dfe8245",
