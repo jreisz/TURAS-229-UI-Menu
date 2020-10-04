@@ -5,6 +5,7 @@ const background = require('../../../public/static/img/background.png');
 const background2x = require('../../../public/static/img/background@2x.png');
 const background3x = require('../../../public/static/img/background@3x.png');
 const journey = require('../../../public/static/img/journey.png');
+
 class Landing extends React.Component {
 
   componentDidMount() {

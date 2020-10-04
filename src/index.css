@@ -10,13 +10,45 @@
     font-family: "Rock_Salt";  
     src: url("../public/static/fonts/Rock_Salt/RockSalt-Regular.ttf");
  }
- @font-face {
+@font-face {
   font-family: "Inter-Black";  
   src: url("../public/static/fonts/Inter/Inter-Black-slnt=0.ttf");
 }
 @font-face {
   font-family: "Inter-Bold";  
   src: url("../public//static/fonts/Inter/Inter-Bold-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-ExtraBold";  
+  src: url("../public/static/fonts/Inter/Inter-ExtraBold-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-ExtraLight";  
+  src: url("../public/static/fonts/Inter/Inter-ExtraLight-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-Light";  
+  src: url("../public/static/fonts/Inter/Inter-Light-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-Medium";  
+  src: url("../public/static/fonts/Inter/Inter-Medium-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-Regular";  
+  src: url("../public/static/fonts/Inter/Inter-Regular-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-SemiBold";  
+  src: url("../public/static/fonts/Inter/Inter-SemiBold-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-Thin";  
+  src: url("../public/static/fonts/Inter/Inter-Thin-slnt=0.ttf");
+}
+@font-face {
+  font-family: "Inter-VariableFont";  
+  src: url("../public/static/fonts/Inter/Inter-VariableFont_slnt,wght.ttf");
 }
 
 html,body {

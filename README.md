@@ -6,7 +6,7 @@ dev:
 deploy:
 	npm run deploy
 
-.envcmd-rc
+.env-cmdrc
 ----------
 dev:
 	npx env-cmd -e DEV  npm run start	
