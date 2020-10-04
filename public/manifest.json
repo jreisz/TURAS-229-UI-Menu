@@ -1,0 +1,10 @@
+{
+  "short_name": "Turas",
+  "name": "TurasTuras - Plan the next greatest adventure",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
