@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TURAS-229-UI-Menu/precache-manifest.bc5784883cd1bc25341423dc8faf86c2.js"
+  "/TURAS-229-UI-Menu/precache-manifest.717ea9807975ec33bbbbec1336205a4e.js"
 );
 
 self.addEventListener('message', (event) => {
