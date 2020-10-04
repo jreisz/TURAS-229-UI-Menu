@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a46a19fdf57544e4c826be3ec1506d26",
+    "revision": "ec796ba798ba3707140b00ad2c47558e",
     "url": "/TURAS-229-UI-Menu/index.html"
   },
   {
-    "revision": "36f7e57c2c536ba46511",
+    "revision": "a9aa0de2f30e57582957",
     "url": "/TURAS-229-UI-Menu/static/css/main.10169b9e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TURAS-229-UI-Menu/static/js/2.d7d74003.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36f7e57c2c536ba46511",
-    "url": "/TURAS-229-UI-Menu/static/js/main.fe4cdd2d.chunk.js"
+    "revision": "a9aa0de2f30e57582957",
+    "url": "/TURAS-229-UI-Menu/static/js/main.c0182fc2.chunk.js"
   },
   {
     "revision": "6214b71371ed6d4b9ac1",

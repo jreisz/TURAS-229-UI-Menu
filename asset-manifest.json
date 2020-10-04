@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TURAS-229-UI-Menu/static/css/main.10169b9e.chunk.css",
-    "main.js": "/TURAS-229-UI-Menu/static/js/main.fe4cdd2d.chunk.js",
-    "main.js.map": "/TURAS-229-UI-Menu/static/js/main.fe4cdd2d.chunk.js.map",
+    "main.js": "/TURAS-229-UI-Menu/static/js/main.c0182fc2.chunk.js",
+    "main.js.map": "/TURAS-229-UI-Menu/static/js/main.c0182fc2.chunk.js.map",
     "runtime-main.js": "/TURAS-229-UI-Menu/static/js/runtime-main.3fb0de33.js",
     "runtime-main.js.map": "/TURAS-229-UI-Menu/static/js/runtime-main.3fb0de33.js.map",
     "static/js/2.d7d74003.chunk.js": "/TURAS-229-UI-Menu/static/js/2.d7d74003.chunk.js",
     "static/js/2.d7d74003.chunk.js.map": "/TURAS-229-UI-Menu/static/js/2.d7d74003.chunk.js.map",
     "index.html": "/TURAS-229-UI-Menu/index.html",
-    "precache-manifest.44c2a416982ccde39ade6f7dbc2ff999.js": "/TURAS-229-UI-Menu/precache-manifest.44c2a416982ccde39ade6f7dbc2ff999.js",
+    "precache-manifest.920a6c03a2ad7f3401c960203f15861a.js": "/TURAS-229-UI-Menu/precache-manifest.920a6c03a2ad7f3401c960203f15861a.js",
     "service-worker.js": "/TURAS-229-UI-Menu/service-worker.js",
     "static/css/main.10169b9e.chunk.css.map": "/TURAS-229-UI-Menu/static/css/main.10169b9e.chunk.css.map",
     "static/js/2.d7d74003.chunk.js.LICENSE.txt": "/TURAS-229-UI-Menu/static/js/2.d7d74003.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3fb0de33.js",
     "static/js/2.d7d74003.chunk.js",
     "static/css/main.10169b9e.chunk.css",
-    "static/js/main.fe4cdd2d.chunk.js"
+    "static/js/main.c0182fc2.chunk.js"
   ]
 }
