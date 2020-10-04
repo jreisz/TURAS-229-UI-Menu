@@ -18,7 +18,7 @@ class Landing extends React.Component {
         <p className="p-title">Turas</p>
         <p className="p-subtitle">Plan the next greatest adventure</p>
         <p className="p-footer">Set and achieve planning goals allin one place</p>
-        <input className="button-enter" type="button" value="Enter" />        
+        <input className="btn-enter" type="button" value="Enter" />        
       </>
     )
   }
