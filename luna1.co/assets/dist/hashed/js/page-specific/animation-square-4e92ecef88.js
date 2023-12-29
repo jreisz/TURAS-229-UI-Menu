@@ -1,0 +1,1 @@
+function maintainSquareAspectRatioOnVideo(){var e=document.querySelector(".circularCutoutVideo");e&&(e.style.height=e.offsetWidth+"px")}window.addEventListener("load",(function(){maintainSquareAspectRatioOnVideo()})),window.addEventListener("resize",(function(){maintainSquareAspectRatioOnVideo()}));

@@ -1,0 +1,1 @@
+window._wq=window._wq||[],window._wq.push({id:document.querySelector("[data-video-id]").dataset.videoId,onReady:function(d){"#video"===window.location.hash&&d.play()}});
